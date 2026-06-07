@@ -8,7 +8,7 @@
 
 > *"No flight takes off without passing rigorous safety checks. I believe exceptional software is created where innovative development meets uncompromising quality assurance."*
 
-[Live Transmission](https://flight-deck-my-portfolio.vercel.app) • [View Manifest](https://go.fliplink.me/view/B7D5DD6E-4F64-421D-ACD2-3365E51AF577)
+[Live Transmission](https://flight-deck-my-portfolio.vercel.app)
 
 </div>
 
